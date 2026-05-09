@@ -5,8 +5,6 @@ Load Knowledge Base — Populate ChromaDB with POIs, dining, and logistics data.
 Uses sentence-transformers (all-MiniLM-L6-v2) for embeddings and ChromaDB
 for vector storage. Creates collections: activities, dining, logistics.
 
-Usage:
-    python scripts/load_knowledge_base.py
 """
 
 import json

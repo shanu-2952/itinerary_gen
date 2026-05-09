@@ -6,8 +6,6 @@ This script validates and copies the pre-authored JSON data files
 into the data/ directory. In production, this would be replaced
 by real data ingestion from APIs, databases, or partner feeds.
 
-Usage:
-    python scripts/generate_dummy_data.py
 """
 
 import json

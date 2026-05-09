@@ -275,9 +275,7 @@ class SpatialSequencer:
         )
 
 
-# ---------------------------------------------------------------------------
 # Standalone execution
-# ---------------------------------------------------------------------------
 
 def main():
     """Run spatial sequencer on first deal with all POIs."""

@@ -5,12 +5,6 @@ Stage 6: Formatter — Validate all rules and format final output.
 Implements ItineraryValidator (checks all business rules) and
 ItineraryFormatter (Pydantic models + human-readable + API output).
 
-Usage:
-    from scripts.formatter import ItineraryValidator, ItineraryFormatter
-    validator = ItineraryValidator()
-    result = validator.validate(itinerary, context)
-    formatter = ItineraryFormatter()
-    output = formatter.to_api_response(itinerary, result)
 """
 
 import json
@@ -28,9 +22,7 @@ except ImportError:
     from rules_engine import DayConstraints
 
 
-# ---------------------------------------------------------------------------
 # Pydantic Models — API Contract with Frontend
-# ---------------------------------------------------------------------------
 
 class ScheduleItem(BaseModel):
     """A single scheduled item within a day."""
@@ -78,9 +70,7 @@ class FullItinerary(BaseModel):
     generated_at: str = ""
 
 
-# ---------------------------------------------------------------------------
 # Validator
-# ---------------------------------------------------------------------------
 
 class ItineraryValidator:
     """Validate that the generated itinerary respects all business rules."""
@@ -259,9 +249,7 @@ class ItineraryValidator:
         }
 
 
-# ---------------------------------------------------------------------------
 # Formatter
-# ---------------------------------------------------------------------------
 
 class ItineraryFormatter:
     """Format itinerary for human reading and API output."""
@@ -370,9 +358,7 @@ class ItineraryFormatter:
         return full.model_dump()
 
 
-# ---------------------------------------------------------------------------
 # Standalone execution
-# ---------------------------------------------------------------------------
 
 def main():
     """Demonstrate validation and formatting with sample data."""

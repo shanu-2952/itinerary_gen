@@ -19,10 +19,6 @@ Architecture:
        - Only modifies descriptions, summaries, tips
        - Falls back gracefully to deterministic descriptions
 
-Usage:
-    from scripts.llm_generator import SmartScheduler
-    scheduler = SmartScheduler()
-    days = scheduler.build_full_itinerary(constraints, ctx, activities, dining, logistics, spatial)
 """
 
 import json
@@ -45,9 +41,8 @@ OLLAMA_URL = os.environ.get("OLLAMA_URL", "http://127.0.0.1:11434")
 MODEL_NAME = os.environ.get("OLLAMA_MODEL", "llama3.1:latest")
 
 
-# ---------------------------------------------------------------------------
+
 # Helper: description personalization (deterministic, no LLM needed)
-# ---------------------------------------------------------------------------
 
 def _personalize_description(base_desc: str, ctx: ParsedItineraryContext,
                              dc: DayConstraints) -> str:
@@ -81,9 +76,7 @@ def _time_label(time_str: str) -> str:
     return "evening"
 
 
-# ---------------------------------------------------------------------------
 # Smart Scheduler
-# ---------------------------------------------------------------------------
 
 class SmartScheduler:
     """
@@ -539,9 +532,7 @@ class SmartScheduler:
         return days
 
 
-# ---------------------------------------------------------------------------
 # Optional LLM Enricher (behind --use-llm flag)
-# ---------------------------------------------------------------------------
 
 class LLMEnricher:
     """
@@ -641,10 +632,7 @@ JSON only, no markdown."""
         return None
 
 
-# ---------------------------------------------------------------------------
 # Standalone execution
-# ---------------------------------------------------------------------------
-
 def main():
     """Test SmartScheduler with dummy data."""
     PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
