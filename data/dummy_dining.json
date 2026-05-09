@@ -1,0 +1,132 @@
+[
+  {
+    "dining_id": "DIN_001", "name": "Sukiyabashi Jiro Roppongi", "city": "Tokyo", "country": "Japan",
+    "cuisine": "sushi", "tier": ["LuxUltra"], "meal": "dinner",
+    "travel_type": ["couple", "solo"], "occasion": ["anniversary", "birthday"],
+    "price_range_inr": "15000-25000", "rating": 4.9, "area": "Roppongi",
+    "lat": 35.6627, "lon": 139.7310,
+    "description": "Legendary omakase experience. Intimate 10-seat counter with master sushi chef. Each piece is a work of art crafted from the finest seasonal fish.",
+    "booking_required": true, "booking_note": "Reserve 1 month in advance, formal dress code",
+    "dietary_options": ["non_vegetarian", "pescatarian"]
+  },
+  {
+    "dining_id": "DIN_002", "name": "Gonpachi Nishi-Azabu", "city": "Tokyo", "country": "Japan",
+    "cuisine": "japanese_fusion", "tier": ["LuxPlus"], "meal": "dinner",
+    "travel_type": ["couple", "family", "group"], "occasion": ["general", "birthday"],
+    "price_range_inr": "5000-8000", "rating": 4.4, "area": "Nishi-Azabu",
+    "lat": 35.6508, "lon": 139.7260,
+    "description": "The iconic 'Kill Bill' restaurant with dramatic wooden interiors across multiple floors. Excellent soba noodles, yakitori, and tempura in a theatrical setting.",
+    "booking_required": true, "booking_note": "Reserve 3 days ahead for dinner",
+    "dietary_options": ["non_vegetarian", "vegetarian"]
+  },
+  {
+    "dining_id": "DIN_003", "name": "Gion Maruyama", "city": "Kyoto", "country": "Japan",
+    "cuisine": "kaiseki", "tier": ["LuxPlus", "LuxUltra"], "meal": "dinner",
+    "travel_type": ["couple"], "occasion": ["anniversary", "general"],
+    "price_range_inr": "12000-18000", "rating": 4.8, "area": "Gion",
+    "lat": 35.0029, "lon": 135.7740,
+    "description": "Exquisite multi-course kaiseki in a historic Gion machiya. Seasonal ingredients presented as edible art, each course telling a story of Kyoto's culinary heritage.",
+    "booking_required": true, "booking_note": "Concierge booking recommended, 1 week ahead",
+    "dietary_options": ["non_vegetarian", "vegetarian_on_request"]
+  },
+  {
+    "dining_id": "DIN_004", "name": "Soneva Fushi Out of the Blue", "city": "Baa Atoll", "country": "Maldives",
+    "cuisine": "international_fine_dining", "tier": ["LuxUltra"], "meal": "dinner",
+    "travel_type": ["couple"], "occasion": ["anniversary", "honeymoon"],
+    "price_range_inr": "20000-35000", "rating": 4.9, "area": "Soneva Fushi",
+    "lat": 5.1069, "lon": 73.0714,
+    "description": "Overwater fine dining under the stars. A private table on the ocean with a bespoke 7-course menu crafted by the resort's Michelin-starred chef. Barefoot luxury at its finest.",
+    "booking_required": true, "booking_note": "Reserve on arrival, available 3 nights per week",
+    "dietary_options": ["non_vegetarian", "vegetarian", "vegan"]
+  },
+  {
+    "dining_id": "DIN_005", "name": "1135 AD", "city": "Jaipur", "country": "India",
+    "cuisine": "rajasthani_royal", "tier": ["LuxPlus", "LuxUltra"], "meal": "dinner",
+    "travel_type": ["couple", "family", "group"], "occasion": ["general", "anniversary"],
+    "price_range_inr": "3000-5000", "rating": 4.5, "area": "Amer Road",
+    "lat": 26.9530, "lon": 75.8440,
+    "description": "Royal Rajasthani cuisine in a palatial setting at the foot of Amber Fort. Signature laal maas and dal baati churma served with traditional live folk performances.",
+    "booking_required": true, "booking_note": "Book dinner with folk show for best experience",
+    "dietary_options": ["non_vegetarian", "vegetarian"]
+  },
+  {
+    "dining_id": "DIN_006", "name": "Ambrai Restaurant", "city": "Udaipur", "country": "India",
+    "cuisine": "north_indian", "tier": ["LuxLite", "LuxPlus"], "meal": "dinner",
+    "travel_type": ["couple", "solo"], "occasion": ["anniversary", "general"],
+    "price_range_inr": "2000-3500", "rating": 4.4, "area": "Amet Haveli",
+    "lat": 24.5762, "lon": 73.6812,
+    "description": "Lakeside dining with unobstructed views of City Palace and Lake Palace lit up at night. The setting alone makes this one of India's most romantic restaurants.",
+    "booking_required": true, "booking_note": "Request lakeside table, reserve 2 days ahead",
+    "dietary_options": ["non_vegetarian", "vegetarian"]
+  },
+  {
+    "dining_id": "DIN_007", "name": "Locavore", "city": "Ubud", "country": "Indonesia",
+    "cuisine": "modern_indonesian", "tier": ["LuxPlus", "LuxUltra"], "meal": "dinner",
+    "travel_type": ["couple", "solo"], "occasion": ["birthday", "anniversary", "general"],
+    "price_range_inr": "8000-12000", "rating": 4.7, "area": "Ubud Center",
+    "lat": -8.5069, "lon": 115.2625,
+    "description": "Asia's Top 50 restaurant serving hyper-local tasting menus using only Indonesian ingredients. A culinary journey through the archipelago's terroir.",
+    "booking_required": true, "booking_note": "Book 2 weeks in advance, tasting menu only",
+    "dietary_options": ["non_vegetarian", "vegetarian", "vegan"]
+  },
+  {
+    "dining_id": "DIN_008", "name": "Sardarni Saheb", "city": "Jodhpur", "country": "India",
+    "cuisine": "rajasthani", "tier": ["LuxLite"], "meal": "dinner",
+    "travel_type": ["couple", "solo", "family"], "occasion": ["general"],
+    "price_range_inr": "1000-2000", "rating": 4.2, "area": "Old City",
+    "lat": 26.2950, "lon": 73.0200,
+    "description": "Hidden gem in the Blue City serving authentic Marwari vegetarian thali with panoramic fort views from the rooftop. Charming heritage ambiance.",
+    "booking_required": false, "booking_note": "",
+    "dietary_options": ["vegetarian"]
+  },
+  {
+    "dining_id": "DIN_009", "name": "Kappo Takamura", "city": "Osaka", "country": "Japan",
+    "cuisine": "kappo", "tier": ["LuxPlus", "LuxUltra"], "meal": "dinner",
+    "travel_type": ["couple", "solo"], "occasion": ["anniversary", "general"],
+    "price_range_inr": "10000-18000", "rating": 4.8, "area": "Namba",
+    "lat": 34.6680, "lon": 135.5050,
+    "description": "An intimate 8-seat kappo counter where the chef prepares seasonal Osaka cuisine before your eyes. Multi-course omakase with premium sake pairings. A hidden gem of Namba's culinary scene.",
+    "booking_required": true, "booking_note": "Concierge booking only, reserve 1 week ahead",
+    "dietary_options": ["non_vegetarian", "pescatarian"]
+  },
+  {
+    "dining_id": "DIN_010", "name": "Mizuno Okonomiyaki", "city": "Osaka", "country": "Japan",
+    "cuisine": "okonomiyaki", "tier": ["LuxLite", "LuxPlus"], "meal": "lunch",
+    "travel_type": ["couple", "family", "solo", "group"], "occasion": ["general", "birthday"],
+    "price_range_inr": "1500-3000", "rating": 4.5, "area": "Namba",
+    "lat": 34.6690, "lon": 135.5020,
+    "description": "Osaka's most celebrated okonomiyaki since 1945. Watch masters flip the signature yamaimo-yaki on the teppan griddle while you sit at the counter. An essential Osaka culinary experience.",
+    "booking_required": false, "booking_note": "Expect 30-min wait at peak hours",
+    "dietary_options": ["non_vegetarian", "vegetarian"]
+  },
+  {
+    "dining_id": "DIN_011", "name": "Sarong Restaurant", "city": "Seminyak", "country": "Indonesia",
+    "cuisine": "pan_asian", "tier": ["LuxPlus", "LuxUltra"], "meal": "dinner",
+    "travel_type": ["couple", "group"], "occasion": ["birthday", "anniversary", "general"],
+    "price_range_inr": "6000-10000", "rating": 4.6, "area": "Seminyak",
+    "lat": -8.6850, "lon": 115.1580,
+    "description": "Award-winning pan-Asian fine dining in a lush tropical garden. Signature dishes blend Indonesian, Indian, and Middle Eastern flavors. The candlelit setting under frangipani trees is pure romance.",
+    "booking_required": true, "booking_note": "Reserve 3 days ahead, garden table recommended",
+    "dietary_options": ["non_vegetarian", "vegetarian", "vegan"]
+  },
+  {
+    "dining_id": "DIN_012", "name": "Shades of Green", "city": "Baa Atoll", "country": "Maldives",
+    "cuisine": "healthy_gourmet", "tier": ["LuxUltra"], "meal": "lunch",
+    "travel_type": ["couple"], "occasion": ["anniversary", "honeymoon", "general"],
+    "price_range_inr": "8000-15000", "rating": 4.7, "area": "Soneva Fushi",
+    "lat": 5.1065, "lon": 73.0710,
+    "description": "Soneva Fushi's garden-to-table restaurant nestled in the organic gardens. Every ingredient is grown steps away. The tasting menu celebrates Maldivian and South Asian flavors with zero food miles.",
+    "booking_required": true, "booking_note": "Open daily for lunch, reserve morning of",
+    "dietary_options": ["non_vegetarian", "vegetarian", "vegan"]
+  },
+  {
+    "dining_id": "DIN_013", "name": "Peacock Rooftop", "city": "Jaipur", "country": "India",
+    "cuisine": "rajasthani_modern", "tier": ["LuxLite", "LuxPlus"], "meal": "dinner",
+    "travel_type": ["couple", "solo", "group"], "occasion": ["general", "birthday"],
+    "price_range_inr": "2000-4000", "rating": 4.3, "area": "Pink City",
+    "lat": 26.9245, "lon": 75.8255,
+    "description": "Rooftop dining with panoramic views of the illuminated Hawa Mahal and Jaipur skyline. Modern twists on traditional Rajasthani cuisine with live folk music. A magical evening atmosphere.",
+    "booking_required": true, "booking_note": "Request rooftop table with Hawa Mahal view",
+    "dietary_options": ["non_vegetarian", "vegetarian"]
+  }
+]

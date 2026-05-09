@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+#vector database files
+chroma_db/ 
+
+output_itinerary.json
+
+*.docx

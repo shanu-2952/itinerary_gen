@@ -1,0 +1,246 @@
+[
+  {
+    "poi_id": "POI_001", "name": "Senso-ji Temple", "city": "Tokyo", "country": "Japan",
+    "category": "temple", "tier": ["LuxLite", "LuxPlus", "LuxUltra"],
+    "travel_type": ["couple", "family", "solo", "group"], "occasion": ["general", "anniversary", "birthday"],
+    "time_of_day": ["morning", "afternoon"], "duration": "2 hours", "energy": "moderate",
+    "area": "Asakusa", "lat": 35.7148, "lon": 139.7967,
+    "description": "Tokyo's oldest and most iconic Buddhist temple. Walk through the dramatic Kaminarimon gate, explore Nakamise shopping street, and experience traditional Japanese spirituality in the heart of modern Tokyo.",
+    "booking_required": false, "booking_note": "", "price_approx_inr": 0, "rating": 4.6
+  },
+  {
+    "poi_id": "POI_002", "name": "TeamLab Borderless", "city": "Tokyo", "country": "Japan",
+    "category": "art_experience", "tier": ["LuxPlus", "LuxUltra"],
+    "travel_type": ["couple", "solo"], "occasion": ["anniversary", "birthday", "general"],
+    "time_of_day": ["afternoon", "evening"], "duration": "3 hours", "energy": "moderate",
+    "area": "Azabudai Hills", "lat": 35.6585, "lon": 139.7310,
+    "description": "A mesmerizing digital art museum where immersive installations react to your presence. Wander through endless rooms of flowing lights, cascading waterfalls, and interactive projections — a deeply romantic experience for couples.",
+    "booking_required": true, "booking_note": "Book 2-3 weeks in advance, timed entry slots", "price_approx_inr": 2500, "rating": 4.7
+  },
+  {
+    "poi_id": "POI_003", "name": "Fushimi Inari Shrine", "city": "Kyoto", "country": "Japan",
+    "category": "shrine", "tier": ["LuxLite", "LuxPlus", "LuxUltra"],
+    "travel_type": ["couple", "family", "solo", "group"], "occasion": ["general", "anniversary"],
+    "time_of_day": ["morning"], "duration": "2.5 hours", "energy": "high",
+    "area": "Fushimi", "lat": 34.9671, "lon": 135.7727,
+    "description": "Thousands of vermillion torii gates wind up the mountainside creating an ethereal tunnel of color. Best visited early morning for photography and to avoid crowds. The full hike takes 2-3 hours.",
+    "booking_required": false, "booking_note": "", "price_approx_inr": 0, "rating": 4.8
+  },
+  {
+    "poi_id": "POI_004", "name": "Arashiyama Bamboo Grove", "city": "Kyoto", "country": "Japan",
+    "category": "nature", "tier": ["LuxLite", "LuxPlus", "LuxUltra"],
+    "travel_type": ["couple", "solo"], "occasion": ["anniversary", "general"],
+    "time_of_day": ["morning"], "duration": "1.5 hours", "energy": "low",
+    "area": "Arashiyama", "lat": 35.0094, "lon": 135.6722,
+    "description": "Walk through towering bamboo stalks that sway and creak in the wind, creating a magical natural cathedral. Arrive before 8 AM for a serene, crowd-free experience perfect for couples.",
+    "booking_required": false, "booking_note": "", "price_approx_inr": 0, "rating": 4.7
+  },
+  {
+    "poi_id": "POI_005", "name": "Private Tea Ceremony", "city": "Kyoto", "country": "Japan",
+    "category": "cultural_experience", "tier": ["LuxPlus", "LuxUltra"],
+    "travel_type": ["couple", "solo"], "occasion": ["anniversary", "general"],
+    "time_of_day": ["afternoon"], "duration": "1.5 hours", "energy": "low",
+    "area": "Gion", "lat": 35.0036, "lon": 135.7747,
+    "description": "An intimate private tea ceremony in a traditional machiya townhouse in Gion. Learn the art of matcha preparation from a tea master while surrounded by centuries-old Japanese aesthetics.",
+    "booking_required": true, "booking_note": "Reserve 1 week ahead, private sessions for 2", "price_approx_inr": 6000, "rating": 4.9
+  },
+  {
+    "poi_id": "POI_006", "name": "Dotonbori Street Walk", "city": "Osaka", "country": "Japan",
+    "category": "street_culture", "tier": ["LuxLite", "LuxPlus"],
+    "travel_type": ["couple", "family", "solo", "group"], "occasion": ["general", "birthday"],
+    "time_of_day": ["evening"], "duration": "2 hours", "energy": "moderate",
+    "area": "Namba", "lat": 34.6687, "lon": 135.5013,
+    "description": "Osaka's neon-lit culinary heartland. Sample takoyaki, okonomiyaki, and street-side gyoza while soaking in the electric atmosphere of giant billboards and canal-side energy.",
+    "booking_required": false, "booking_note": "", "price_approx_inr": 1500, "rating": 4.5
+  },
+  {
+    "poi_id": "POI_007", "name": "Osaka Castle", "city": "Osaka", "country": "Japan",
+    "category": "historical_landmark", "tier": ["LuxLite", "LuxPlus", "LuxUltra"],
+    "travel_type": ["couple", "family", "solo", "group"], "occasion": ["general"],
+    "time_of_day": ["morning", "afternoon"], "duration": "2 hours", "energy": "moderate",
+    "area": "Chuo-ku", "lat": 34.6873, "lon": 135.5262,
+    "description": "Japan's most famous castle surrounded by moats and parkland. Explore the museum inside, then stroll the expansive grounds with views of the Osaka skyline.",
+    "booking_required": false, "booking_note": "", "price_approx_inr": 500, "rating": 4.4
+  },
+  {
+    "poi_id": "POI_008", "name": "Sunset Dolphin Cruise", "city": "Baa Atoll", "country": "Maldives",
+    "category": "luxury_experience", "tier": ["LuxUltra"],
+    "travel_type": ["couple"], "occasion": ["anniversary", "honeymoon"],
+    "time_of_day": ["evening"], "duration": "2 hours", "energy": "low",
+    "area": "Baa Atoll Lagoon", "lat": 5.1500, "lon": 73.0500,
+    "description": "A private sunset cruise aboard a luxury dhoni with champagne and canapés. Watch dolphins play in the golden hour light while sailing through the UNESCO biosphere reserve.",
+    "booking_required": true, "booking_note": "Book through resort concierge 48 hours ahead", "price_approx_inr": 25000, "rating": 4.9
+  },
+  {
+    "poi_id": "POI_009", "name": "Private Snorkeling at Hanifaru Bay", "city": "Baa Atoll", "country": "Maldives",
+    "category": "water_adventure", "tier": ["LuxPlus", "LuxUltra"],
+    "travel_type": ["couple", "family"], "occasion": ["general", "anniversary"],
+    "time_of_day": ["morning"], "duration": "3 hours", "energy": "high",
+    "area": "Hanifaru Bay", "lat": 5.1800, "lon": 73.0200,
+    "description": "Snorkel in the world's largest congregation of manta rays at this UNESCO biosphere site. Private guide and speedboat transfer from resort included.",
+    "booking_required": true, "booking_note": "Season: May-November, book 1 week ahead", "price_approx_inr": 18000, "rating": 4.8
+  },
+  {
+    "poi_id": "POI_010", "name": "Overwater Spa Ritual", "city": "Baa Atoll", "country": "Maldives",
+    "category": "wellness", "tier": ["LuxUltra"],
+    "travel_type": ["couple"], "occasion": ["anniversary", "honeymoon"],
+    "time_of_day": ["morning", "afternoon"], "duration": "2.5 hours", "energy": "low",
+    "area": "Soneva Fushi Spa", "lat": 5.1060, "lon": 73.0720,
+    "description": "A couple's spa journey in an overwater pavilion with glass floor panels revealing the reef below. Includes aromatherapy massage, sound healing, and organic refreshments.",
+    "booking_required": true, "booking_note": "Reserve at check-in for preferred time slots", "price_approx_inr": 35000, "rating": 4.9
+  },
+  {
+    "poi_id": "POI_011", "name": "Amber Fort", "city": "Jaipur", "country": "India",
+    "category": "historical_landmark", "tier": ["LuxLite", "LuxPlus", "LuxUltra"],
+    "travel_type": ["couple", "family", "solo", "group"], "occasion": ["general"],
+    "time_of_day": ["morning"], "duration": "3 hours", "energy": "high",
+    "area": "Amer", "lat": 26.9855, "lon": 75.8513,
+    "description": "The magnificent hilltop fortress with intricate mirror work, sprawling courtyards, and panoramic views. Explore the Sheesh Mahal, Diwan-e-Aam, and secret underground tunnels.",
+    "booking_required": false, "booking_note": "Arrive before 9 AM to beat the heat", "price_approx_inr": 500, "rating": 4.6
+  },
+  {
+    "poi_id": "POI_012", "name": "Mehrangarh Fort", "city": "Jodhpur", "country": "India",
+    "category": "historical_landmark", "tier": ["LuxLite", "LuxPlus", "LuxUltra"],
+    "travel_type": ["couple", "family", "solo", "group"], "occasion": ["general"],
+    "time_of_day": ["morning", "afternoon"], "duration": "3 hours", "energy": "moderate",
+    "area": "Old City", "lat": 26.2988, "lon": 73.0183,
+    "description": "One of India's largest forts, towering 400 feet above the Blue City. Houses an extraordinary museum with palanquins, armor, and paintings. The rampart views are breathtaking.",
+    "booking_required": false, "booking_note": "", "price_approx_inr": 600, "rating": 4.7
+  },
+  {
+    "poi_id": "POI_013", "name": "Lake Pichola Sunset Boat Ride", "city": "Udaipur", "country": "India",
+    "category": "scenic_experience", "tier": ["LuxLite", "LuxPlus", "LuxUltra"],
+    "travel_type": ["couple", "solo"], "occasion": ["anniversary", "general"],
+    "time_of_day": ["evening"], "duration": "1.5 hours", "energy": "low",
+    "area": "Lake Pichola", "lat": 24.5710, "lon": 73.6800,
+    "description": "Glide across the shimmering waters of Lake Pichola at sunset, passing the floating Jag Mandir and Lake Palace. The golden light illuminating the Aravalli hills creates an unforgettable romantic backdrop.",
+    "booking_required": true, "booking_note": "Book through hotel, private boats available", "price_approx_inr": 3000, "rating": 4.7
+  },
+  {
+    "poi_id": "POI_014", "name": "Tegallalang Rice Terraces", "city": "Ubud", "country": "Indonesia",
+    "category": "nature", "tier": ["LuxLite", "LuxPlus", "LuxUltra"],
+    "travel_type": ["couple", "family", "solo"], "occasion": ["general", "birthday"],
+    "time_of_day": ["morning"], "duration": "2 hours", "energy": "moderate",
+    "area": "Tegallalang", "lat": -8.4312, "lon": 115.2793,
+    "description": "Dramatic cascading rice paddies carved into the hillside. Walk through the sub-irrigation system dating back centuries and enjoy coffee overlooking the emerald green terraces.",
+    "booking_required": false, "booking_note": "", "price_approx_inr": 200, "rating": 4.5
+  },
+  {
+    "poi_id": "POI_015", "name": "Private Sunset at Tanah Lot", "city": "Seminyak", "country": "Indonesia",
+    "category": "scenic_experience", "tier": ["LuxPlus", "LuxUltra"],
+    "travel_type": ["couple", "family"], "occasion": ["anniversary", "birthday", "general"],
+    "time_of_day": ["evening"], "duration": "2 hours", "energy": "low",
+    "area": "Tanah Lot", "lat": -8.6213, "lon": 115.0868,
+    "description": "Bali's most iconic sea temple perched on a rock formation surrounded by crashing waves. Visit during golden hour for spectacular sunset views and traditional Kecak fire dance performances.",
+    "booking_required": false, "booking_note": "Arrive 1 hour before sunset for best spots", "price_approx_inr": 400, "rating": 4.6
+  },
+  {
+    "poi_id": "POI_016", "name": "Tsukiji Outer Market Food Tour", "city": "Tokyo", "country": "Japan",
+    "category": "food_experience", "tier": ["LuxLite", "LuxPlus"],
+    "travel_type": ["couple", "solo", "group"], "occasion": ["general", "birthday"],
+    "time_of_day": ["morning"], "duration": "2.5 hours", "energy": "moderate",
+    "area": "Tsukiji", "lat": 35.6654, "lon": 139.7707,
+    "description": "Explore the vibrant outer market with guided tastings of the freshest sushi, tamagoyaki, wagyu skewers, and seasonal delicacies. A feast for all senses.",
+    "booking_required": true, "booking_note": "Guided tours book out fast, reserve 3 days ahead", "price_approx_inr": 4000, "rating": 4.6
+  },
+  {
+    "poi_id": "POI_017", "name": "Meiji Shrine", "city": "Tokyo", "country": "Japan",
+    "category": "shrine", "tier": ["LuxLite", "LuxPlus", "LuxUltra"],
+    "travel_type": ["couple", "family", "solo", "group"], "occasion": ["anniversary", "general"],
+    "time_of_day": ["morning"], "duration": "1.5 hours", "energy": "low",
+    "area": "Harajuku", "lat": 35.6764, "lon": 139.6993,
+    "description": "A serene forest shrine in the heart of Tokyo dedicated to Emperor Meiji. Walk through the towering torii gate and pristine forested path. A peaceful start to any morning — ideal for couples seeking a quiet, spiritual moment together.",
+    "booking_required": false, "booking_note": "", "price_approx_inr": 0, "rating": 4.6
+  },
+  {
+    "poi_id": "POI_018", "name": "Shinjuku Gyoen National Garden", "city": "Tokyo", "country": "Japan",
+    "category": "nature", "tier": ["LuxLite", "LuxPlus", "LuxUltra"],
+    "travel_type": ["couple", "family", "solo"], "occasion": ["anniversary", "general"],
+    "time_of_day": ["morning", "afternoon"], "duration": "2 hours", "energy": "low",
+    "area": "Shinjuku", "lat": 35.6852, "lon": 139.7100,
+    "description": "One of Tokyo's most beautiful gardens blending Japanese, English, and French landscape styles. Stroll through cherry blossom groves, koi ponds, and manicured lawns. In March, the garden becomes a romantic paradise of pink blossoms.",
+    "booking_required": false, "booking_note": "Closed Mondays. Entry 500 yen.", "price_approx_inr": 350, "rating": 4.7
+  },
+  {
+    "poi_id": "POI_019", "name": "Blue City Heritage Walk", "city": "Jodhpur", "country": "India",
+    "category": "walking_tour", "tier": ["LuxLite", "LuxPlus"],
+    "travel_type": ["couple", "solo", "group"], "occasion": ["general"],
+    "time_of_day": ["morning"], "duration": "2.5 hours", "energy": "moderate",
+    "area": "Old City", "lat": 26.2960, "lon": 73.0175,
+    "description": "Wander through the maze of indigo-painted lanes in the shadow of Mehrangarh Fort. Visit spice markets, artisan workshops, and hidden step wells while learning about the Brahmin traditions behind the blue walls.",
+    "booking_required": true, "booking_note": "Book guided walk through hotel, morning slot recommended", "price_approx_inr": 1500, "rating": 4.4
+  },
+  {
+    "poi_id": "POI_020", "name": "Sacred Monkey Forest Sanctuary", "city": "Ubud", "country": "Indonesia",
+    "category": "nature", "tier": ["LuxLite", "LuxPlus"],
+    "travel_type": ["couple", "family", "solo"], "occasion": ["general", "birthday"],
+    "time_of_day": ["afternoon"], "duration": "1.5 hours", "energy": "low",
+    "area": "Ubud Center", "lat": -8.5185, "lon": 115.2588,
+    "description": "An ancient sanctuary where hundreds of long-tailed macaques live among moss-covered temples and banyan trees. Walk the shaded paths, cross dragon-guarded bridges, and witness centuries-old Hindu carvings.",
+    "booking_required": false, "booking_note": "Keep belongings secure, no food visible", "price_approx_inr": 500, "rating": 4.4
+  },
+  {
+    "poi_id": "POI_021", "name": "Potato Head Beach Club", "city": "Seminyak", "country": "Indonesia",
+    "category": "beach_club", "tier": ["LuxPlus", "LuxUltra"],
+    "travel_type": ["couple", "group"], "occasion": ["birthday", "anniversary", "general"],
+    "time_of_day": ["afternoon", "evening"], "duration": "3 hours", "energy": "low",
+    "area": "Seminyak Beach", "lat": -8.6880, "lon": 115.1545,
+    "description": "Bali's most iconic sustainable beach club with infinity pools, ocean views, and world-class cocktails. Watch the sunset from a daybed while DJs set the mood. A perfect celebration venue.",
+    "booking_required": true, "booking_note": "Reserve daybed 3 days ahead for sunset session", "price_approx_inr": 5000, "rating": 4.5
+  },
+  {
+    "poi_id": "POI_022", "name": "Hawa Mahal", "city": "Jaipur", "country": "India",
+    "category": "historical_landmark", "tier": ["LuxLite", "LuxPlus", "LuxUltra"],
+    "travel_type": ["couple", "family", "solo", "group"], "occasion": ["general"],
+    "time_of_day": ["morning"], "duration": "1.5 hours", "energy": "low",
+    "area": "Pink City", "lat": 26.9239, "lon": 75.8267,
+    "description": "The iconic 'Palace of Winds' with its 953 honeycomb windows designed for royal women to observe street life unseen. The facade glows pink at sunrise — a photographer's dream and Jaipur's most recognizable landmark.",
+    "booking_required": false, "booking_note": "Best photographed from the street-facing cafes opposite", "price_approx_inr": 200, "rating": 4.4
+  },
+  {
+    "poi_id": "POI_023", "name": "City Palace Jaipur", "city": "Jaipur", "country": "India",
+    "category": "palace", "tier": ["LuxLite", "LuxPlus", "LuxUltra"],
+    "travel_type": ["couple", "family", "solo", "group"], "occasion": ["general", "anniversary"],
+    "time_of_day": ["morning", "afternoon"], "duration": "2.5 hours", "energy": "moderate",
+    "area": "Pink City", "lat": 26.9258, "lon": 75.8237,
+    "description": "A magnificent fusion of Rajasthani and Mughal architecture still partially occupied by the royal family. Explore the stunning Peacock Gate, textile gallery, and the grand Diwan-e-Khas audience hall.",
+    "booking_required": false, "booking_note": "Audio guide recommended", "price_approx_inr": 700, "rating": 4.5
+  },
+  {
+    "poi_id": "POI_024", "name": "City Palace Udaipur", "city": "Udaipur", "country": "India",
+    "category": "palace", "tier": ["LuxLite", "LuxPlus", "LuxUltra"],
+    "travel_type": ["couple", "family", "solo", "group"], "occasion": ["general", "anniversary"],
+    "time_of_day": ["morning"], "duration": "2.5 hours", "energy": "moderate",
+    "area": "Lake Pichola", "lat": 24.5764, "lon": 73.6913,
+    "description": "Rajasthan's largest palace complex perched above Lake Pichola. Wander through ornate balconies, mirror mosaics, and rooftop gardens with sweeping views of the lake and Aravalli hills.",
+    "booking_required": false, "booking_note": "Light and sound show available in evening", "price_approx_inr": 400, "rating": 4.6
+  },
+  {
+    "poi_id": "POI_025", "name": "Stargazing Observatory", "city": "Baa Atoll", "country": "Maldives",
+    "category": "luxury_experience", "tier": ["LuxUltra"],
+    "travel_type": ["couple"], "occasion": ["anniversary", "honeymoon"],
+    "time_of_day": ["evening"], "duration": "1.5 hours", "energy": "low",
+    "area": "Soneva Fushi", "lat": 5.1070, "lon": 73.0700,
+    "description": "Gaze at the Milky Way through Soneva Fushi's professional-grade telescope with a resident astronomer. The Maldives' minimal light pollution offers some of the clearest night skies on earth — a deeply romantic experience.",
+    "booking_required": true, "booking_note": "Weather dependent, reserve at concierge", "price_approx_inr": 8000, "rating": 4.8
+  },
+  {
+    "poi_id": "POI_026", "name": "Private Sandbank Picnic", "city": "Baa Atoll", "country": "Maldives",
+    "category": "luxury_experience", "tier": ["LuxUltra"],
+    "travel_type": ["couple"], "occasion": ["anniversary", "honeymoon"],
+    "time_of_day": ["morning", "afternoon"], "duration": "3 hours", "energy": "low",
+    "area": "Baa Atoll Lagoon", "lat": 5.1600, "lon": 73.0400,
+    "description": "Be dropped off on a deserted white sandbank surrounded by turquoise waters with a gourmet picnic hamper and champagne. Complete privacy with nothing but ocean, sky, and your partner.",
+    "booking_required": true, "booking_note": "Book 2 days ahead, tide dependent", "price_approx_inr": 30000, "rating": 4.9
+  },
+  {
+    "poi_id": "POI_027", "name": "Ubud Royal Palace", "city": "Ubud", "country": "Indonesia",
+    "category": "cultural_experience", "tier": ["LuxLite", "LuxPlus"],
+    "travel_type": ["couple", "family", "solo"], "occasion": ["general", "birthday"],
+    "time_of_day": ["morning"], "duration": "1.5 hours", "energy": "low",
+    "area": "Ubud Center", "lat": -8.5069, "lon": 115.2630,
+    "description": "The historic seat of the Ubud royal family with traditional Balinese architecture and lush gardens. Catch the evening Legong dance performance in the courtyard for a magical cultural immersion.",
+    "booking_required": false, "booking_note": "Evening dance shows at 19:30, arrive early for front seats", "price_approx_inr": 600, "rating": 4.3
+  }
+]
+

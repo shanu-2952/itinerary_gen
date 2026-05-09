@@ -1,0 +1,58 @@
+[
+  {
+    "customer_id": "CUST_001",
+    "name": "Arjun & Priya Sharma",
+    "travel_type": "couple",
+    "occasion": "anniversary",
+    "interests": ["culture", "fine_dining", "photography", "temples", "romantic_experiences"],
+    "past_trips": ["Thailand", "Sri Lanka"],
+    "past_hotels": ["Anantara Bangkok", "Heritance Kandalama"],
+    "pace": "moderate",
+    "dietary": "vegetarian",
+    "home_city": "Mumbai",
+    "preferred_tier": "LuxPlus",
+    "children": null
+  },
+  {
+    "customer_id": "CUST_002",
+    "name": "Rohan Mehta",
+    "travel_type": "solo",
+    "occasion": "general",
+    "interests": ["history", "street_food", "architecture", "adventure", "local_culture"],
+    "past_trips": ["Vietnam", "Nepal"],
+    "past_hotels": ["JW Marriott Hanoi"],
+    "pace": "fast",
+    "dietary": "none",
+    "home_city": "Bangalore",
+    "preferred_tier": "LuxLite",
+    "children": null
+  },
+  {
+    "customer_id": "CUST_003",
+    "name": "The Kapoor Family",
+    "travel_type": "family",
+    "occasion": "school_holiday",
+    "interests": ["nature", "beaches", "family_activities", "water_sports", "cultural_shows"],
+    "past_trips": ["Dubai", "Singapore"],
+    "past_hotels": ["Atlantis The Palm", "Marina Bay Sands"],
+    "pace": "relaxed",
+    "dietary": "none",
+    "home_city": "Delhi",
+    "preferred_tier": "LuxPlus",
+    "children": [{"name": "Aarav", "age": 10}, {"name": "Anaya", "age": 7}]
+  },
+  {
+    "customer_id": "CUST_004",
+    "name": "Vikram & Neha Reddy",
+    "travel_type": "couple",
+    "occasion": "anniversary",
+    "interests": ["luxury_spa", "private_dining", "snorkeling", "sunset_cruises", "overwater_living"],
+    "past_trips": ["Seychelles", "Mauritius"],
+    "past_hotels": ["Four Seasons Seychelles"],
+    "pace": "relaxed",
+    "dietary": "non_vegetarian",
+    "home_city": "Delhi",
+    "preferred_tier": "LuxUltra",
+    "children": null
+  }
+]

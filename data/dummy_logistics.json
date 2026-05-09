@@ -1,0 +1,137 @@
+[
+  {
+    "city": "Tokyo", "country": "Japan",
+    "transport": {
+      "airport_to_city": "Narita Express (NEX) to Shinjuku/Tokyo Station — 60 min, ~3500 INR. Haneda is closer: monorail/taxi 30 min.",
+      "within_city": "JR Pass covers most trains. Suica/Pasmo IC card for subway. Avoid taxis in rush hour.",
+      "tips": ["Get a 72-hour Tokyo Metro pass", "Google Maps works perfectly for train navigation", "Last trains around midnight"]
+    },
+    "timing_advice": {
+      "best_months": ["March", "April", "October", "November"],
+      "avoid_months": ["August"],
+      "timezone": "JST (UTC+9)",
+      "rush_hours": "7:30-9:30 AM, 5:30-8:00 PM — avoid subway during these times"
+    },
+    "local_customs": ["Bow when greeting", "No tipping", "Remove shoes indoors", "Quiet on public transport", "Cash still widely preferred at small shops"]
+  },
+  {
+    "city": "Kyoto", "country": "Japan",
+    "transport": {
+      "airport_to_city": "From Osaka Kansai (KIX): Haruka Express 75 min, ~2800 INR.",
+      "within_city": "Bus system is excellent for temple hopping. Rent bicycles for flat areas. Taxis reasonable for short trips.",
+      "tips": ["Get a Kyoto Bus 1-day pass", "Temples close by 5 PM", "Arashiyama is best reached by JR train"]
+    },
+    "timing_advice": {
+      "best_months": ["March", "April", "October", "November"],
+      "avoid_months": ["July", "August"],
+      "timezone": "JST (UTC+9)",
+      "rush_hours": "8:00-9:00 AM, 5:00-7:00 PM"
+    },
+    "local_customs": ["Geisha district (Gion) — do not photograph without permission", "Temple etiquette: purify hands at chozuya", "Dress modestly at shrines"]
+  },
+  {
+    "city": "Osaka", "country": "Japan",
+    "transport": {
+      "airport_to_city": "Kansai Airport Rapid to Namba — 50 min, ~1200 INR. Nankai Rapi:t limited express is faster.",
+      "within_city": "Osaka Metro covers all major areas. Day passes available. Walking is great in Dotonbori/Namba.",
+      "tips": ["Osaka Amazing Pass includes attractions + transport", "Shinkansen to/from Kyoto is just 15 min"]
+    },
+    "timing_advice": {
+      "best_months": ["March", "April", "October", "November"],
+      "avoid_months": ["August"],
+      "timezone": "JST (UTC+9)",
+      "rush_hours": "7:30-9:30 AM, 5:30-7:30 PM"
+    },
+    "local_customs": ["Osaka is more casual than Tokyo/Kyoto", "Street food is the culture — embrace it", "Stand on the right side of escalators (opposite of Tokyo)"]
+  },
+  {
+    "city": "Male", "country": "Maldives",
+    "transport": {
+      "airport_to_city": "Velana International Airport is on Hulhulé island. Speedboat/seaplane transfers to resorts arranged by hotel.",
+      "within_city": "Male city is walkable. Ferry to nearby islands. Resorts handle all inter-island transfers.",
+      "tips": ["Confirm resort transfer in advance", "Seaplane transfers only operate in daylight", "Keep USD cash for tips"]
+    },
+    "timing_advice": {
+      "best_months": ["November", "December", "January", "February", "March", "April"],
+      "avoid_months": ["June", "July", "August"],
+      "timezone": "MVT (UTC+5)",
+      "rush_hours": "Not applicable for resort travel"
+    },
+    "local_customs": ["Alcohol only on resort islands", "Conservative dress in Male city", "Friday is the holy day — limited services"]
+  },
+  {
+    "city": "Jaipur", "country": "India",
+    "transport": {
+      "airport_to_city": "Jaipur Airport to city center — 30 min by taxi, ~500 INR.",
+      "within_city": "Auto-rickshaws, Uber/Ola available. Hire a car+driver for full-day fort visits.",
+      "tips": ["Negotiate auto fares beforehand", "Car+driver for Amber Fort, Nahargarh circuit", "Avoid driving yourself"]
+    },
+    "timing_advice": {
+      "best_months": ["October", "November", "December", "January", "February", "March"],
+      "avoid_months": ["May", "June", "July"],
+      "timezone": "IST (UTC+5:30)",
+      "rush_hours": "9:00-10:30 AM, 5:30-8:00 PM"
+    },
+    "local_customs": ["Haggling expected at bazaars", "Cover shoulders/knees at temples", "Drink bottled water only", "Rajasthani hospitality is warm — accept chai when offered"]
+  },
+  {
+    "city": "Jodhpur", "country": "India",
+    "transport": {
+      "airport_to_city": "Jodhpur Airport to Old City — 15 min by taxi, ~300 INR.",
+      "within_city": "Auto-rickshaws for short trips. Walking in Old City. Car+driver for Bishnoi village safari.",
+      "tips": ["Old City is best explored on foot", "Hire local guide at Mehrangarh", "Evening walk in the blue lanes"]
+    },
+    "timing_advice": {
+      "best_months": ["October", "November", "December", "January", "February"],
+      "avoid_months": ["May", "June"],
+      "timezone": "IST (UTC+5:30)",
+      "rush_hours": "Minimal traffic congestion"
+    },
+    "local_customs": ["The Blue City is photogenic but ask before photographing homes", "Try mirchi vada from local stalls", "Sunset from Mehrangarh is unmissable"]
+  },
+  {
+    "city": "Udaipur", "country": "India",
+    "transport": {
+      "airport_to_city": "Maharana Pratap Airport to Lake Pichola area — 25 min by taxi, ~400 INR.",
+      "within_city": "Walking around the lake areas. Boats for lake crossings. Auto-rickshaws elsewhere.",
+      "tips": ["Stay near Lake Pichola for best access", "Evening boat ride is a must", "Fateh Sagar Lake for quieter mornings"]
+    },
+    "timing_advice": {
+      "best_months": ["September", "October", "November", "December", "January", "February", "March"],
+      "avoid_months": ["May", "June"],
+      "timezone": "IST (UTC+5:30)",
+      "rush_hours": "Minimal — Udaipur is relaxed"
+    },
+    "local_customs": ["Known as City of Lakes and Venice of the East", "Miniature paintings are the signature craft", "Evening aarti at Jagdish Temple"]
+  },
+  {
+    "city": "Ubud", "country": "Indonesia",
+    "transport": {
+      "airport_to_city": "Ngurah Rai Airport to Ubud — 90 min by car, ~1500 INR. Pre-book hotel transfer.",
+      "within_city": "Rent a scooter or hire a private driver. Grab app works. Walking in central Ubud.",
+      "tips": ["Private driver for full day ~2500 INR", "Roads are narrow and winding", "Monkey Forest is walkable from center"]
+    },
+    "timing_advice": {
+      "best_months": ["April", "May", "June", "July", "August", "September"],
+      "avoid_months": ["January", "February"],
+      "timezone": "WITA (UTC+8)",
+      "rush_hours": "Traffic jams common on main road 10 AM-1 PM"
+    },
+    "local_customs": ["Wear sarong/sash at temples (usually provided)", "Offerings on sidewalks — don't step on them", "Nyepi Day of Silence — no activity, airport closed"]
+  },
+  {
+    "city": "Seminyak", "country": "Indonesia",
+    "transport": {
+      "airport_to_city": "Ngurah Rai Airport to Seminyak — 30 min by car, ~800 INR.",
+      "within_city": "Walking along beach road. Grab for rides. Scooter rental popular. Hotel shuttles.",
+      "tips": ["Sunset beach clubs are walkable from most hotels", "Traffic bad on Jl. Raya Seminyak 4-7 PM", "Pre-book airport transfer"]
+    },
+    "timing_advice": {
+      "best_months": ["April", "May", "June", "July", "August", "September", "October"],
+      "avoid_months": ["January", "February"],
+      "timezone": "WITA (UTC+8)",
+      "rush_hours": "4:00-7:00 PM on main roads"
+    },
+    "local_customs": ["Beach clubs have dress codes for dinner", "Respect temple ceremonies even on beach", "Tipping 10% appreciated at restaurants"]
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "deal_id": "DEAL_001",
+    "deal_type": "bucket_list",
+    "tier": "LuxPlus",
+    "destination": "Japan",
+    "cities": [
+      {"city": "Tokyo", "days": 4},
+      {"city": "Kyoto", "days": 3},
+      {"city": "Osaka", "days": 3}
+    ],
+    "flight": {
+      "class": "economy",
+      "departure_city": "Mumbai",
+      "arrival_city": "Tokyo",
+      "return_city": "Mumbai",
+      "arrival_time": "09:30",
+      "departure_time": "14:00",
+      "is_direct": true,
+      "airline": "ANA (All Nippon Airways)",
+      "duration_hours": 9.5,
+      "num_stops": 0,
+      "price_inr": 52000
+    },
+    "hotels": {
+      "Tokyo": {
+        "name": "Hotel Gracery Shinjuku",
+        "lat": 35.6938, "lon": 139.7034,
+        "stars": 4, "area": "Shinjuku",
+        "rating": 4.4, "review_count": 3200,
+        "property_type": "premium_hotel",
+        "review_trend": "stable",
+        "recent_complaints": []
+      },
+      "Kyoto": {
+        "name": "The Celestine Kyoto Gion",
+        "lat": 34.9988, "lon": 135.7713,
+        "stars": 5, "area": "Gion",
+        "rating": 4.5, "review_count": 1800,
+        "property_type": "boutique_luxury",
+        "review_trend": "rising",
+        "recent_complaints": []
+      },
+      "Osaka": {
+        "name": "Cross Hotel Osaka",
+        "lat": 34.6723, "lon": 135.5012,
+        "stars": 4, "area": "Shinsaibashi",
+        "rating": 4.3, "review_count": 2100,
+        "property_type": "boutique_hotel",
+        "review_trend": "stable",
+        "recent_complaints": []
+      }
+    },
+    "checkin": "2026-03-15",
+    "checkout": "2026-03-25",
+    "total_nights": 10,
+    "occasion": "anniversary"
+  },
+  {
+    "deal_id": "DEAL_002",
+    "deal_type": "travel_calendar",
+    "tier": "LuxUltra",
+    "destination": "Maldives",
+    "cities": [
+      {"city": "Male", "days": 1},
+      {"city": "Baa Atoll", "days": 5}
+    ],
+    "flight": {
+      "class": "business",
+      "departure_city": "Delhi",
+      "arrival_city": "Male",
+      "return_city": "Delhi",
+      "arrival_time": "14:30",
+      "departure_time": "22:00",
+      "is_direct": true,
+      "airline": "IndiGo (Business)",
+      "duration_hours": 5.0,
+      "num_stops": 0,
+      "price_inr": 145000
+    },
+    "hotels": {
+      "Male": {
+        "name": "SAii Lagoon Maldives",
+        "lat": 4.1755, "lon": 73.5093,
+        "stars": 5, "area": "South Male Atoll",
+        "rating": 4.7, "review_count": 950,
+        "property_type": "luxury_resort",
+        "review_trend": "rising",
+        "recent_complaints": []
+      },
+      "Baa Atoll": {
+        "name": "Soneva Fushi",
+        "lat": 5.1069, "lon": 73.0714,
+        "stars": 5, "area": "Kunfunadhoo Island",
+        "rating": 4.9, "review_count": 1200,
+        "property_type": "exclusive_villa_resort",
+        "review_trend": "rising",
+        "recent_complaints": []
+      }
+    },
+    "checkin": "2026-02-14",
+    "checkout": "2026-02-20",
+    "total_nights": 6,
+    "occasion": "anniversary"
+  },
+  {
+    "deal_id": "DEAL_003",
+    "deal_type": "bucket_list",
+    "tier": "LuxLite",
+    "destination": "Rajasthan",
+    "cities": [
+      {"city": "Jaipur", "days": 3},
+      {"city": "Jodhpur", "days": 2},
+      {"city": "Udaipur", "days": 3}
+    ],
+    "flight": {
+      "class": "economy",
+      "departure_city": "Bangalore",
+      "arrival_city": "Jaipur",
+      "return_city": "Bangalore",
+      "arrival_time": "08:15",
+      "departure_time": "19:30",
+      "is_direct": false,
+      "airline": "IndiGo",
+      "duration_hours": 4.5,
+      "num_stops": 1,
+      "price_inr": 8500
+    },
+    "hotels": {
+      "Jaipur": {
+        "name": "Samode Haveli",
+        "lat": 26.9260, "lon": 75.8235,
+        "stars": 4, "area": "Old City",
+        "rating": 4.2, "review_count": 1500,
+        "property_type": "heritage_boutique",
+        "review_trend": "stable",
+        "recent_complaints": []
+      },
+      "Jodhpur": {
+        "name": "Raas Jodhpur",
+        "lat": 26.2980, "lon": 73.0181,
+        "stars": 4, "area": "Old City",
+        "rating": 4.1, "review_count": 980,
+        "property_type": "boutique_hotel",
+        "review_trend": "stable",
+        "recent_complaints": ["slow_wifi"]
+      },
+      "Udaipur": {
+        "name": "Amet Haveli",
+        "lat": 24.5760, "lon": 73.6810,
+        "stars": 4, "area": "Lake Pichola",
+        "rating": 4.0, "review_count": 870,
+        "property_type": "heritage_boutique",
+        "review_trend": "stable",
+        "recent_complaints": []
+      }
+    },
+    "checkin": "2026-10-10",
+    "checkout": "2026-10-18",
+    "total_nights": 8,
+    "occasion": "general"
+  },
+  {
+    "deal_id": "DEAL_004",
+    "deal_type": "travel_calendar",
+    "tier": "LuxPlus",
+    "destination": "Bali",
+    "cities": [
+      {"city": "Ubud", "days": 3},
+      {"city": "Seminyak", "days": 3}
+    ],
+    "flight": {
+      "class": "economy",
+      "departure_city": "Mumbai",
+      "arrival_city": "Denpasar",
+      "return_city": "Mumbai",
+      "arrival_time": "16:45",
+      "departure_time": "21:00",
+      "is_direct": false,
+      "airline": "Singapore Airlines",
+      "duration_hours": 10.5,
+      "num_stops": 1,
+      "price_inr": 35000
+    },
+    "hotels": {
+      "Ubud": {
+        "name": "Viceroy Bali",
+        "lat": -8.4505, "lon": 115.3832,
+        "stars": 5, "area": "Petanu River Valley",
+        "rating": 4.6, "review_count": 1400,
+        "property_type": "luxury_villa_resort",
+        "review_trend": "stable",
+        "recent_complaints": []
+      },
+      "Seminyak": {
+        "name": "The Legian Seminyak",
+        "lat": -8.6880, "lon": 115.1560,
+        "stars": 5, "area": "Seminyak Beach",
+        "rating": 4.5, "review_count": 2200,
+        "property_type": "luxury_beachfront",
+        "review_trend": "stable",
+        "recent_complaints": []
+      }
+    },
+    "checkin": "2026-07-05",
+    "checkout": "2026-07-11",
+    "total_nights": 6,
+    "occasion": "birthday"
+  }
+]
